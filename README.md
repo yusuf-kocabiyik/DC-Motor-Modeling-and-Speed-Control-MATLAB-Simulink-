@@ -5,7 +5,7 @@ This project focuses on modeling a DC motor system and designing a closed-loop s
 The objective is to analyze system dynamics and evaluate controller performance under different operating conditions.
 </p>
 
-<hr>
+
 
 <h2> Project Objectives</h2>
 <ul>
@@ -16,7 +16,6 @@ The objective is to analyze system dynamics and evaluate controller performance 
   <li>Evaluate system performance under disturbances and varying inputs</li>
 </ul>
 
-<hr>
 
 <h2> System Modeling</h2>
 <p>
@@ -33,7 +32,7 @@ The DC motor is modeled using electrical and mechanical equations, which are the
 The model is implemented in Simulink using standard blocks and transfer function representation.
 </p>
 
-<hr>
+
 
 <h2> Control Strategy</h2>
 <ul>
@@ -46,7 +45,7 @@ The model is implemented in Simulink using standard blocks and transfer function
 The control system aims to track a given reference speed with minimal error and stable behavior.
 </p>
 
-<hr>
+
 
 <h2> Performance Analysis</h2>
 <p>The following performance metrics are analyzed:</p>
@@ -68,7 +67,7 @@ Different test scenarios are evaluated, including:
   <li>Load disturbance effects</li>
 </ul>
 
-<hr>
+
 
 <h2>Tools & Technologies</h2>
 <ul>
@@ -92,8 +91,6 @@ Results and analysis will be updated as the project progresses.
   <li>Real-time implementation on embedded systems</li>
   <li>Integration with backend systems for data analysis</li>
 </ul>
-
-<hr>
 
 <h2> Author</h2>
 <p>
