@@ -76,17 +76,6 @@ Different test scenarios are evaluated, including:
   <li>Simulink</li>
 </ul>
 
-<hr>
-
-<h2> Project Structure</h2>
-<ul>
-  <li><b>/model</b> → Simulink model files (.slx)</li>
-  <li><b>/scripts</b> → MATLAB scripts (if applicable)</li>
-  <li><b>/results</b> → Simulation outputs and graphs</li>
-  <li><b>/docs</b> → Project documentation</li>
-</ul>
-
-<hr>
 
 <h2> Current Status</h2>
 <p>
